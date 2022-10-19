@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cal_Area", "Cal_Area\Cal_Area.csproj", "{D98D2428-A2AF-49E8-A02B-DECA9C2863B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98D2428-A2AF-49E8-A02B-DECA9C2863B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98D2428-A2AF-49E8-A02B-DECA9C2863B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98D2428-A2AF-49E8-A02B-DECA9C2863B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98D2428-A2AF-49E8-A02B-DECA9C2863B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1E9218-9FC5-4834-8706-5EA088D3DF0B}
+	EndGlobalSection
+EndGlobal
